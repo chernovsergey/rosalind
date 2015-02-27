@@ -1,0 +1,1 @@
+defaultdict(<type 'int'>, {'AAG': 2, 'ACG': 1, 'ATC': 2, 'ATA': 2, 'AGG': 2, 'AGA': 1, 'AAT': 4, 'ATT': 1, 'CAC': 1, 'CAA': 3, 'AGT': 2, 'CAG': 2, 'TAT': 1, 'GGA': 1, 'TAA': 1, 'GGC': 2, 'GAG': 1, 'TCG': 1, 'CGT': 2, 'GAA': 1, 'TCA': 4, 'GTC': 2, 'GCG': 1, 'TTC': 3, 'GTT': 2})
